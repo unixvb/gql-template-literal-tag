@@ -32,3 +32,4 @@ coverage
 # Env
 .env*
 !.env.dist
+/node_modules/
